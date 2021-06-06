@@ -17,14 +17,5 @@
       <description>#测试 this is just for test</description>
     </item>
     
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://marginitor.github.io/posts/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://marginitor.github.io/posts/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
