@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on title</title>
+    <link>marginitor.github.io/post/</link>
+    <description>Recent content in Posts on title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 06 Jun 2021 14:36:39 +0800</lastBuildDate><atom:link href="marginitor.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>marginitor.github.io/post/first/</link>
+      <pubDate>Sun, 06 Jun 2021 14:36:39 +0800</pubDate>
+      
+      <guid>marginitor.github.io/post/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
