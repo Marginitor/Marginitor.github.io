@@ -88,103 +88,53 @@
 <main id="main">
             <a href="javascript:void(0)" id="closebtn" onclick="navToggle()"><i class="fas fa-bars fa-lg"></i></a>
             <div class="content">
-    <div class="section">
-        <dev class="section-title">tags</dev>
-        
-            <div class="list-item">
-                <a class="entry-title" href="/tags/css/">css</a>
-                
-                
-                <div class="meta">
-                
-                    <i class="far fa-calendar-alt"></i> Mar 11 2019
-                
-                <br>
-                
-                </div>
-            </div>
-        
-            <div class="list-item">
-                <a class="entry-title" href="/tags/html/">html</a>
-                
-                
-                <div class="meta">
-                
-                    <i class="far fa-calendar-alt"></i> Mar 11 2019
-                
-                <br>
-                
-                </div>
-            </div>
-        
-            <div class="list-item">
-                <a class="entry-title" href="/tags/markdown/">markdown</a>
-                
-                
-                <div class="meta">
-                
-                    <i class="far fa-calendar-alt"></i> Mar 11 2019
-                
-                <br>
-                
-                </div>
-            </div>
-        
-            <div class="list-item">
-                <a class="entry-title" href="/tags/themes/">themes</a>
-                
-                
-                <div class="meta">
-                
-                    <i class="far fa-calendar-alt"></i> Mar 11 2019
-                
-                <br>
-                
-                </div>
-            </div>
-        
-            <div class="list-item">
-                <a class="entry-title" href="/tags/text/">text</a>
-                
-                
-                <div class="meta">
-                
-                    <i class="far fa-calendar-alt"></i> Mar 9 2019
-                
-                <br>
-                
-                </div>
-            </div>
-        
-            <div class="list-item">
-                <a class="entry-title" href="/tags/emoji/">emoji</a>
-                
-                
-                <div class="meta">
-                
-                    <i class="far fa-calendar-alt"></i> Mar 5 2019
-                
-                <br>
-                
-                </div>
-            </div>
-        
-            <div class="list-item">
-                <a class="entry-title" href="/tags/index/">index</a>
-                
-                
-                <div class="meta">
-                
-                <br>
-                
-                </div>
-            </div>
-        
+    
+    <h1 id="title">Math Typesetting</h1>
+    
+      
+    
+    <p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
+
+<p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
+
+<ul>
+<li>Create a partial under <code>/layouts/partials/math.html</code></li>
+<li>Within this partial reference the <a href="https://katex.org/docs/autorender.html">Auto-render Extension</a> or host these scripts locally.</li>
+<li>Include the partial in your templates like so:<br></li>
+</ul>
+<pre><code></code></pre>
+<ul>
+<li>To enable KaTex globally set the parameter <code>math</code> to <code>true</code> in a project's configuration</li>
+<li>To enable KaTex on a per page basis include the parameter <code>math: true</code> in content files.</li>
+</ul>
+
+<p><strong>Note:</strong> Use the online reference of <a href="https://katex.org/docs/supported.html">Supported TeX Functions</a>
+</p>
+
+<h3 id="examples">Examples</h3>
+
+<p>Inline math: <span  class="math">\( \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… \)</span></p>
+
+<p>Block math:</p>
+
+<p><span  class="math">\[
+ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
+\]</span></p>
+    
+    <div class="nav-next-prev">
+        <div class="nav-prev">
+            
+                <a class="grayed-out" href="javascript:void()"><i class="fas fa-chevron-left"></i></a>
+            
+        </div>
+        <a class="nav-top" href="#">top</i></a>
+        <div class="nav-next">
+            
+                <a href="https://marginitor.github.io/posts/first/"><i class="fas fa-chevron-right"></i></a>
+            
+        </div>
     </div>
     
-
-
-
 
             </div><footer>
 <div class="footer-content">
