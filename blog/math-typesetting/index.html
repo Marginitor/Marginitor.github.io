@@ -32,6 +32,12 @@
 ></script>
 
 
+
+    <link href="https://cdn.bootcss.com/highlight.js/9.12.0/styles/monokai.min.css" rel="stylesheet">
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/languages/tex.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
   </head>
 <body><aside id="sidenav">
     <header>
@@ -126,7 +132,13 @@
 <li>Within this partial reference the <a href="https://katex.org/docs/autorender.html">Auto-render Extension</a> or host these scripts locally.</li>
 <li>Include the partial in your templates like so:</li>
 </ul>
-<pre><code></code></pre>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-fallback" data-lang="fallback"></code></pre></td></tr></table>
+</div>
+</div>
 <ul>
 <li>To enable KaTex globally set the parameter <code>math</code> to <code>true</code> in a project's configuration</li>
 <li>To enable KaTex on a per page basis include the parameter <code>math: true</code> in content files.</li>
