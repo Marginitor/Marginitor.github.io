@@ -8,9 +8,6 @@
     <loc>https://marginitor.github.io/</loc>
     <lastmod>2021-06-06T21:18:28+00:00</lastmod>
   </url><url>
-    <loc>https://marginitor.github.io/posts/</loc>
-    <lastmod>2021-06-06T21:18:28+00:00</lastmod>
-  </url><url>
     <loc>https://marginitor.github.io/blog/</loc>
     <lastmod>2021-06-06T21:18:28+00:00</lastmod>
   </url><url>
@@ -26,11 +23,14 @@
     <loc>https://marginitor.github.io/blog/2021-06-06-test-blog/</loc>
     <lastmod>2021-06-06T21:18:28+00:00</lastmod>
   </url><url>
-    <loc>https://marginitor.github.io/posts/2021-06-06-test-blog/</loc>
-    <lastmod>2021-06-06T21:18:28+00:00</lastmod>
-  </url><url>
     <loc>https://marginitor.github.io/posts/first/</loc>
     <lastmod>2021-06-06T14:36:39+08:00</lastmod>
+  </url><url>
+    <loc>https://marginitor.github.io/posts/</loc>
+    <lastmod>2021-06-06T14:36:39+08:00</lastmod>
+  </url><url>
+    <loc>https://marginitor.github.io/about/</loc>
+    <lastmod>2021-06-06T14:36:03+08:00</lastmod>
   </url><url>
     <loc>https://marginitor.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
@@ -67,9 +67,6 @@
   </url><url>
     <loc>https://marginitor.github.io/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marginitor.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://marginitor.github.io/contact/</loc>
   </url><url>
