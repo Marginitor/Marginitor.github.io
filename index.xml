@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 06 Jun 2021 21:18:28 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Jun 2021 09:11:48 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[运筹学] 基础定理证明</title>
+      <link>https://marginitor.github.io/blog/2021-06-09-optimization-ch-1/</link>
+      <pubDate>Wed, 09 Jun 2021 09:11:48 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/blog/2021-06-09-optimization-ch-1/</guid>
+      <description>凸集 设 ${x}^{(1)},{x}^{(2)}$
+ </description>
+    </item>
+    
     <item>
       <title>这是一个测试博客</title>
       <link>https://marginitor.github.io/blog/2021-06-06-test-blog/</link>
       <pubDate>Sun, 06 Jun 2021 21:18:28 +0000</pubDate>
       
       <guid>https://marginitor.github.io/blog/2021-06-06-test-blog/</guid>
-      <description>#测试 这是一个测试页，顺便翻译一下语法看看
+      <description>测试 这是一个测试页，顺便翻译一下语法看看
  头 Heading HTML中的 &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt;元素，可以用对应数目的前导#来实现。
 H1 H2 H3 H4 H5 H6  段落 Paragraph 没错，这只是一个平平无奇的段落。
  块引用 Blockquote 块引用，没别的，就是块引用，然后可以部分地修改内部。 必须有一个 footer 或者 cite 元素
