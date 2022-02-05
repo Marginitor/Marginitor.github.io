@@ -15,7 +15,7 @@
       
       <guid>https://marginitor.github.io/blog/2021-06-09-optimization-ch-1/</guid>
       <description>凸集 设 ${x}^{(1)},{x}^{(2)}$
-测试成功了，想润了。
+测试成功了，想润了。 （话说你怎么只认特定格式的时间啊）
  </description>
     </item>
     
@@ -43,6 +43,37 @@ Blockquote without attribution  随便说点啥. 再 随便 说点 啥.
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
+    </item>
+    
+    <item>
+      <title>[乐队] Bands A</title>
+      <link>https://marginitor.github.io/blog/2022-02-05-music-bands-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/blog/2022-02-05-music-bands-a/</guid>
+      <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
+正文 AC/DC 硬摇
+ 老爹们的乐队
+  AFI EMO
+ 值得一听
+  ANGRA 力金
+ 值得一听，solo不错
+  Abiogenesis 大概是&amp;hellip;技术死核&amp;hellip;&amp;hellip;？
+ 没想到吧，只有一首歌
+  Aborted 技术死
+ 常规
+  Abysmal Dawn 技术死
+ 常规
+  Aephanemer 旋死
+ 常规
+  Aerosmith 布鲁斯+硬摇
+ 老爹们的乐队
+  After The Burial 嗯&amp;hellip;金属核？
+ 常规
+  Agalloch 黑金+哥特&amp;hellip;？
+ 常规
+  Agathodaimon 交响黑
+ 常规</description>
     </item>
     
     <item>
