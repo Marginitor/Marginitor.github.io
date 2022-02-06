@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Jun 2021 09:11:48 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Feb 2022 17:33:32 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>乐队</title>
+      <link>https://marginitor.github.io/tags/%E4%B9%90%E9%98%9F/</link>
+      <pubDate>Sun, 06 Feb 2022 17:33:32 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/tags/%E4%B9%90%E9%98%9F/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>运筹学</title>
       <link>https://marginitor.github.io/tags/%E8%BF%90%E7%AD%B9%E5%AD%A6/</link>
@@ -23,15 +32,6 @@
       <pubDate>Sun, 06 Jun 2021 21:18:28 +0000</pubDate>
       
       <guid>https://marginitor.github.io/tags/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>乐队</title>
-      <link>https://marginitor.github.io/tags/%E4%B9%90%E9%98%9F/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://marginitor.github.io/tags/%E4%B9%90%E9%98%9F/</guid>
       <description></description>
     </item>
     
