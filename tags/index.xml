@@ -7,7 +7,88 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 06 Feb 2022 17:33:32 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Apr 2022 16:45:16 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>动态规划</title>
+      <link>https://marginitor.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</link>
+      <pubDate>Sun, 17 Apr 2022 16:45:16 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>机器学习</title>
+      <link>https://marginitor.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Sun, 17 Apr 2022 15:59:38 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>排序</title>
+      <link>https://marginitor.github.io/tags/%E6%8E%92%E5%BA%8F/</link>
+      <pubDate>Sun, 17 Apr 2022 15:57:50 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/tags/%E6%8E%92%E5%BA%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>深度学习</title>
+      <link>https://marginitor.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Sun, 17 Apr 2022 15:56:25 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://marginitor.github.io/tags/nlp/</link>
+      <pubDate>Sun, 17 Apr 2022 15:46:20 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://marginitor.github.io/tags/cv/</link>
+      <pubDate>Sun, 17 Apr 2022 15:30:28 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/tags/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>强化学习</title>
+      <link>https://marginitor.github.io/tags/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Sun, 17 Apr 2022 15:30:28 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/tags/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>推荐算法</title>
+      <link>https://marginitor.github.io/tags/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Sun, 17 Apr 2022 15:30:28 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/tags/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://marginitor.github.io/tags/test/</link>
+      <pubDate>Mon, 07 Feb 2022 09:52:17 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>乐队</title>
       <link>https://marginitor.github.io/tags/%E4%B9%90%E9%98%9F/</link>
@@ -23,15 +104,6 @@
       <pubDate>Wed, 09 Jun 2021 09:11:48 +0000</pubDate>
       
       <guid>https://marginitor.github.io/tags/%E8%BF%90%E7%AD%B9%E5%AD%A6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://marginitor.github.io/tags/test/</link>
-      <pubDate>Sun, 06 Jun 2021 21:18:28 +0000</pubDate>
-      
-      <guid>https://marginitor.github.io/tags/test/</guid>
       <description></description>
     </item>
     

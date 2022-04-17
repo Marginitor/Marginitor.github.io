@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Marginitor&#39;s Shelter In Silence</title>
+    <link>https://marginitor.github.io/tags/nlp/</link>
+    <description>Recent content in NLP on Marginitor&#39;s Shelter In Silence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 17 Apr 2022 15:46:20 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[深度学习] Transformer</title>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-transformer2022-04-17/</link>
+      <pubDate>Sun, 17 Apr 2022 15:46:20 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-transformer2022-04-17/</guid>
+      <description>Transformer 占坑。
+ </description>
+    </item>
+    
+    <item>
+      <title>[深度学习] BERT</title>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-bert2022-04-17/</link>
+      <pubDate>Sun, 17 Apr 2022 15:45:54 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-bert2022-04-17/</guid>
+      <description>BERT 占坑。
+ </description>
+    </item>
+    
+    <item>
+      <title>[深度学习] CRF 条件随机场</title>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-crf2022-04-17/</link>
+      <pubDate>Sun, 17 Apr 2022 15:30:28 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-crf2022-04-17/</guid>
+      <description>CRF 占坑。
+ </description>
+    </item>
+    
+  </channel>
+</rss>

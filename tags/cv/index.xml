@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CV on Marginitor&#39;s Shelter In Silence</title>
+    <link>https://marginitor.github.io/tags/cv/</link>
+    <description>Recent content in CV on Marginitor&#39;s Shelter In Silence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sun, 17 Apr 2022 15:30:28 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/tags/cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[深度学习] CNN 卷积神经网络</title>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-cnn2022-04-17/</link>
+      <pubDate>Sun, 17 Apr 2022 15:30:28 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-cnn2022-04-17/</guid>
+      <description>CNN 占坑。
+ </description>
+    </item>
+    
+  </channel>
+</rss>
