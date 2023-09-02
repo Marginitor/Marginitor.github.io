@@ -10,32 +10,29 @@
     <lastBuildDate>Sun, 17 Apr 2022 15:46:20 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[深度学习] Transformer</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-transformer2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-transformer@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:46:20 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-transformer2022-04-17/</guid>
-      <description>Transformer 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-transformer@2022-04-17/</guid>
+      <description>Transformer 占坑。</description>
     </item>
     
     <item>
       <title>[深度学习] BERT</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-bert2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-bert@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:45:54 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-bert2022-04-17/</guid>
-      <description>BERT 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-bert@2022-04-17/</guid>
+      <description>BERT 占坑。</description>
     </item>
     
     <item>
       <title>[深度学习] CRF 条件随机场</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-crf2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-crf@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:30:28 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-crf2022-04-17/</guid>
-      <description>CRF 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-crf@2022-04-17/</guid>
+      <description>CRF 占坑。</description>
     </item>
     
   </channel>

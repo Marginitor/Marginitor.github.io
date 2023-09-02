@@ -10,12 +10,11 @@
     <lastBuildDate>Sun, 17 Apr 2022 15:57:50 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/tags/%E6%8E%92%E5%BA%8F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[传统算法] 排序</title>
-      <link>https://marginitor.github.io/blog/classical_algorithm/algorithm-sort2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/classical_algorithm/algorithm-sort@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:57:50 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/classical_algorithm/algorithm-sort2022-04-17/</guid>
-      <description>排序 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/classical_algorithm/algorithm-sort@2022-04-17/</guid>
+      <description>排序 占坑。</description>
     </item>
     
   </channel>

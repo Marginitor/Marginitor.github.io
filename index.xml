@@ -10,13 +10,12 @@
     <lastBuildDate>Sun, 17 Apr 2022 16:45:16 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[梦] 恐 怖 如 斯</title>
-      <link>https://marginitor.github.io/blog/dreams/event/dreams-event-n2022-3-27/</link>
+      <link>https://marginitor.github.io/blog/dreams/event/dreams-event-n@2022-3-27/</link>
       <pubDate>Sun, 17 Apr 2022 16:45:16 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/dreams/event/dreams-event-n2022-3-27/</guid>
+      <guid>https://marginitor.github.io/blog/dreams/event/dreams-event-n@2022-3-27/</guid>
       <description>我觉得梦见鬼也没这种事恐怖。
- 毕业后没过多久，某一天，家里人突然安排我和一个素未谋面的人相亲，我当即答复：“我还不想结婚。”
-家里人还是不死心，再三劝导，又给我看了张这个人的照片。客观地说，相貌算不上不好看，但也不具备任何美感，在寒暄中无话可说时，人群中大多数人都可以被用来借“和她长得很像”为题将对话延续下去。对我而言，这倒也无所谓，单论相貌的话，同样是不感兴趣的人，好点差点也不会影响其在我眼中的评估。
+毕业后没过多久，某一天，家里人突然安排我和一个素未谋面的人相亲，我当即答复：“我还不想结婚。” 家里人还是不死心，再三劝导，又给我看了张这个人的照片。客观地说，相貌算不上不好看，但也不具备任何美感，在寒暄中无话可说时，人群中大多数人都可以被用来借“和她长得很像”为题将对话延续下去。对我而言，这倒也无所谓，单论相貌的话，同样是不感兴趣的人，好点差点也不会影响其在我眼中的评估。
 后来，我不知道发生了什么，也许是我被彻底烦到了，我只知道等我再一次回过神来，已经是数月之后的某一天了，此时我数月间的“回忆”也相继涌现出来。
 …………
 我竟然已经和那个人结婚了，还有了孩子。但是我并没有因为恍然察觉到现况而有什么波动，就好像我已经接受了并习惯性地长期压抑着某种情绪。
@@ -37,850 +36,1066 @@
     
     <item>
       <title>[传统算法] 动态规划</title>
-      <link>https://marginitor.github.io/blog/classical_algorithm/algorithm-dp2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/classical_algorithm/algorithm-dp@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 16:03:01 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/classical_algorithm/algorithm-dp2022-04-17/</guid>
-      <description>动态规划 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/classical_algorithm/algorithm-dp@2022-04-17/</guid>
+      <description>动态规划 占坑。</description>
     </item>
     
     <item>
       <title>[机器学习] K-means</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-k-means2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-k-means@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:59:38 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-k-means2022-04-17/</guid>
-      <description>K-means 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-k-means@2022-04-17/</guid>
+      <description>K-means 占坑。</description>
     </item>
     
     <item>
       <title>[传统算法] 排序</title>
-      <link>https://marginitor.github.io/blog/classical_algorithm/algorithm-sort2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/classical_algorithm/algorithm-sort@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:57:50 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/classical_algorithm/algorithm-sort2022-04-17/</guid>
-      <description>排序 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/classical_algorithm/algorithm-sort@2022-04-17/</guid>
+      <description>排序 占坑。</description>
     </item>
     
     <item>
       <title>[机器学习] KNN</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-knn2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-knn@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:57:50 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-knn2022-04-17/</guid>
-      <description>KNN 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-knn@2022-04-17/</guid>
+      <description>KNN 占坑。</description>
     </item>
     
     <item>
       <title>[机器学习] SVM 支持向量机</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-svm2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-svm@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:57:50 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-svm2022-04-17/</guid>
-      <description>SVM 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-svm@2022-04-17/</guid>
+      <description>SVM 占坑。</description>
     </item>
     
     <item>
       <title>[机器学习] 贝叶斯分类器</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-bayes2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-bayes@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:56:35 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-bayes2022-04-17/</guid>
-      <description>贝叶斯分类器 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-bayes@2022-04-17/</guid>
+      <description>贝叶斯分类器 占坑。</description>
     </item>
     
     <item>
       <title>[深度学习] GAN 对抗生成网络</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-gan2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-gan@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:56:25 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-gan2022-04-17/</guid>
-      <description>GAN 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-gan@2022-04-17/</guid>
+      <description>GAN 占坑。</description>
     </item>
     
     <item>
       <title>[深度学习] GNN 图神经网络</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-gnn2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-gnn@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:56:15 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-gnn2022-04-17/</guid>
-      <description>GNN 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-gnn@2022-04-17/</guid>
+      <description>GNN 占坑。</description>
     </item>
     
     <item>
       <title>[深度学习] Transformer</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-transformer2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-transformer@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:46:20 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-transformer2022-04-17/</guid>
-      <description>Transformer 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-transformer@2022-04-17/</guid>
+      <description>Transformer 占坑。</description>
     </item>
     
     <item>
       <title>[深度学习] BERT</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-bert2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-bert@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:45:54 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-bert2022-04-17/</guid>
-      <description>BERT 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-bert@2022-04-17/</guid>
+      <description>BERT 占坑。</description>
     </item>
     
     <item>
       <title>[深度学习] NN 神经网络</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-nn2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-nn@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:34:50 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-nn2022-04-17/</guid>
-      <description>神经网络 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-nn@2022-04-17/</guid>
+      <description>神经网络 占坑。</description>
     </item>
     
     <item>
       <title>[强化学习] Actor-Critic</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/reinforcement_learning/ai-rl-actor-critic2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/reinforcement_learning/ai-rl-actor-critic@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:30:28 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/reinforcement_learning/ai-rl-actor-critic2022-04-17/</guid>
-      <description>Actor-Critic 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/reinforcement_learning/ai-rl-actor-critic@2022-04-17/</guid>
+      <description>Actor-Critic 占坑。</description>
     </item>
     
     <item>
       <title>[强化学习] DDPG</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/reinforcement_learning/ai-rl-ddpg2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/reinforcement_learning/ai-rl-ddpg@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:30:28 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/reinforcement_learning/ai-rl-ddpg2022-04-17/</guid>
-      <description>DDPG 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/reinforcement_learning/ai-rl-ddpg@2022-04-17/</guid>
+      <description>DDPG 占坑。</description>
     </item>
     
     <item>
       <title>[机器学习] 决策树</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-decision-tree2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-decision-tree@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:30:28 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-decision-tree2022-04-17/</guid>
-      <description>决策树 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/machine_learning/ai-ml-decision-tree@2022-04-17/</guid>
+      <description>决策树 占坑。</description>
     </item>
     
     <item>
       <title>[深度学习] CF 协同过滤</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-cf2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-cf@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:30:28 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-cf2022-04-17/</guid>
-      <description>CF 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-cf@2022-04-17/</guid>
+      <description>CF 占坑。</description>
     </item>
     
     <item>
       <title>[深度学习] CNN 卷积神经网络</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-cnn2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-cnn@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:30:28 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-cnn2022-04-17/</guid>
-      <description>CNN 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-cnn@2022-04-17/</guid>
+      <description>CNN 占坑。</description>
     </item>
     
     <item>
       <title>[深度学习] CRF 条件随机场</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-crf2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-crf@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:30:28 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-crf2022-04-17/</guid>
-      <description>CRF 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/deep_learning/ai-dl-crf@2022-04-17/</guid>
+      <description>CRF 占坑。</description>
     </item>
     
     <item>
       <title>[强化学习] Q-Learning</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/reinforcement_learning/ai-rl-qlearning2022-04-17/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/reinforcement_learning/ai-rl-qlearning@2022-04-17/</link>
       <pubDate>Sun, 17 Apr 2022 15:27:43 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/reinforcement_learning/ai-rl-qlearning2022-04-17/</guid>
-      <description>Q-Learning 占坑。
- </description>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/reinforcement_learning/ai-rl-qlearning@2022-04-17/</guid>
+      <description>Q-Learning 占坑。</description>
     </item>
     
     <item>
       <title>[强化学习] 基本概念与常用表达</title>
-      <link>https://marginitor.github.io/blog/artificial_intelligence/reinforcement_learning/ai-rl-basic-12022-02-07/</link>
+      <link>https://marginitor.github.io/blog/artificial_intelligence/reinforcement_learning/ai-rl-basic-1@2022-02-07/</link>
       <pubDate>Mon, 07 Feb 2022 10:29:32 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/artificial_intelligence/reinforcement_learning/ai-rl-basic-12022-02-07/</guid>
+      <guid>https://marginitor.github.io/blog/artificial_intelligence/reinforcement_learning/ai-rl-basic-1@2022-02-07/</guid>
       <description>水一下基本概念，顺便记一下各种函数和符号。
- I. 基本概念 一、强化学习的基本要素 1. 策略 Policy policy 决定了 agent 在面对观测到的 state 时将如何决定 action
+I. 基本概念 一、强化学习的基本要素 1. 策略 Policy policy 决定了 agent 在面对观测到的 state 时将如何决定 action
 2. 奖励 Reward 3. 估值 Value 4. 环境 Environment </description>
     </item>
     
     <item>
       <title>这是一个测试博客2</title>
-      <link>https://marginitor.github.io/blog/test/test-blog22022-02-07/</link>
+      <link>https://marginitor.github.io/blog/test/test-blog2@2022-02-07/</link>
       <pubDate>Mon, 07 Feb 2022 09:52:17 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/test/test-blog22022-02-07/</guid>
+      <guid>https://marginitor.github.io/blog/test/test-blog2@2022-02-07/</guid>
       <description>测试 这是一个测试页2</description>
     </item>
     
     <item>
       <title>[乐队] Bands ANY</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-any2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-any@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 17:33:32 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-any2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-any@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 Æther Realm\
-   65daysofstatic\
-   </description>
+65daysofstatic\</description>
     </item>
     
     <item>
       <title>[乐队] Bands Z</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-z2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-z@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 17:32:58 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-z2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-z@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 竟然还没听到</description>
     </item>
     
     <item>
       <title>[乐队] Bands Y</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-y2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-y@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 17:32:37 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-y2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-y@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 竟然还没听到</description>
     </item>
     
     <item>
       <title>[乐队] Bands X</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-x2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-x@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 17:32:04 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-x2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-x@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
-正文 Xanthochroid\
-   </description>
+正文 Xanthochroid\</description>
     </item>
     
     <item>
       <title>[乐队] Bands W</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-w2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-w@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 17:31:59 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-w2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-w@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 Wake Up Hate\
-   Warmen\
-   Warrant\
-   We Came As Romans\
-   While She Sleeps\
-   Whispered\
-   Whitechapel\
-   Widek\
-   Wilderun\
-   Winds of Plague\
-   Winterfylleth\
-   Wintersun\
-   Within Destruction\
-   Within The Ruins\
-   Woods Of Ypres\</description>
+Warmen\
+Warrant\
+We Came As Romans\
+While She Sleeps\
+Whispered\
+Whitechapel\
+Widek\
+Wilderun\
+Winds of Plague\
+Winterfylleth\
+Wintersun\
+Within Destruction\
+Within The Ruins\
+Woods Of Ypres\
+Words Of Farewell\
+Wormwitch\
+Wretched\</description>
     </item>
     
     <item>
       <title>[乐队] Bands V</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-v2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-v@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 17:30:38 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-v2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-v@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 V3ctors\
-   VOLA\
-   VUUR\
-   Vader\
-   Vale Of Pnath\
-   Valis Ablaze\
-   Valravn\
-   Van Halen\
-   Veil Of Maya\
-   Vektor\
-   Versus Them\
-   Vildhjarta\
-   Vintersorg\
-   Virgil Donati\
-   Virvum\
-   Vital Remains\</description>
+VOLA\
+VUUR\
+Vader\
+Vale Of Pnath\
+Valis Ablaze\
+Valravn\
+Van Halen\
+Veil Of Maya\
+Vektor\
+Versus Them\
+Vildhjarta\
+Vintersorg\
+Virgil Donati\
+Virvum\
+Vital Remains\
+Vitalism\
+Viza\
+Volumes\
+Votum\
+Vredehammer\</description>
     </item>
     
     <item>
       <title>[乐队] Bands U</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-u2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-u@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 17:29:38 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-u2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-u@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 U2\
-   Ulcerate\
-   Ultar\
-   Ulver\
-   Underoath\
-   Unearth\
-   Uneven Structure\
-   Universum\
-   Unlucky Morpheus\
-   Unprocessed\
-   </description>
+Ulcerate\
+Ultar\
+Ulver\
+Underoath\
+Unearth\
+Uneven Structure\
+Universum\
+Unlucky Morpheus\
+Unprocessed\</description>
     </item>
     
     <item>
       <title>[乐队] Bands T</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-t2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-t@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 17:27:28 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-t2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-t@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 TOOL\
-   Tears For Fears\
-   Termina\
-   TesseracT\
-   Testament\
-   Textures\
-   Thank You Scientist\
-   The 69 Eyes\
-   The Acacia Strain\
-   The Agony Scene\
-   The Algorithm\
-   The Aristocrats\
-   The Auteurs\
-   The Beast of Nod\</description>
+Tears For Fears\
+Termina\
+TesseracT\
+Testament\
+Textures\
+Thank You Scientist\
+The 69 Eyes\
+The Acacia Strain\
+The Agony Scene\
+The Algorithm\
+The Aristocrats\
+The Auteurs\
+The Beast of Nod\
+The Black Crowes\
+The Black Dahlia Murder\
+The Browning\
+The Charlatans\
+The Contortionist\
+The Dear Hunter\
+The Devil Wears Prada\
+The Dillinger Escape Plan\
+The Duskfall\
+The Early November\
+The Eyes Of A Traitor\
+The Faceless\</description>
     </item>
     
     <item>
       <title>[乐队] Bands S</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-s2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-s@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 17:26:05 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-s2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-s@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 Sade\
-   Salt The Wound\
-   Santana\
-   Saosin\
-   Saturnus\
-   Savatage\
-   Saybia\
-   Scale The Summit\
-   Scar Symmetry\
-   Scary Kids Scaring Kids\
-   Scorpions\
-   Senses Fail\
-   Sentenced\
-   Septicflesh\
-   Serocs\</description>
+Salt The Wound\
+Santana\
+Saosin\
+Saturnus\
+Savatage\
+Saybia\
+Scale The Summit\
+Scar Symmetry\
+Scary Kids Scaring Kids\
+Scorpions\
+Senses Fail\
+Sentenced\
+Septicflesh\
+Serocs\
+Serpentine Dominion\
+Seventh Wonder\
+Severed Savior\
+Sex Pistols\
+Shade Empire\
+Shadow of Intent\
+Shattered Skies\
+Shokran\
+Signs of the Swarm\
+SikTh\
+Silence Lies Fear\
+Silent Season\
+Silverstein\
+Sinergy\
+Skeletonwitch\
+Skid Row\
+Skyharbor\
+Skyhaven\
+Slaughter to Prevail\
+Slayer\
+Slice The Cake\
+Slint\
+Slipknot\</description>
     </item>
     
     <item>
       <title>[乐队] Bands R</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-r2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-r@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 17:23:26 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-r2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-r@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 Racer X\
-   Radiohead\
-   Rage\
-   Rage of Angels\
-   Rainbow\
-   Ramones\
-   Raunchy\
-   Razor\
-   Red Hot Chili Peppers\
-   Redemption\
-   Reef\
-   Reflections\
-   Rest, Repose\
-   Returning We Hear the Larks\
-   Reverend Bizarre\</description>
+Radiohead\
+Rage\
+Rage of Angels\
+Rainbow\
+Ramones\
+Raunchy\
+Razor\
+Red Hot Chili Peppers\
+Redemption\
+Reef\
+Reflections\
+Rest, Repose\
+Returning We Hear the Larks\
+Reverend Bizarre\
+Revocation\
+Revolution Renaissance\
+Rhapsody\
+Rhapsody Of Fire\
+Richard Ashcroft\
+Rings of Saturn\
+Rishloo\
+Rivers of Nihil\
+Rob Scallon\
+Rolo Tomassi\
+Rotting Christ\
+Roxette\
+Royal Coda\
+Running Wild\
+Rush\
+Rx Bandits\</description>
     </item>
     
     <item>
       <title>[乐队] Bands Q</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-q2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-q@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 17:18:03 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-q2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-q@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 Queen\
-   Queensrÿche\
-   Quo Vadis\
-   </description>
+Queensrÿche\
+Quo Vadis\</description>
     </item>
     
     <item>
       <title>[乐队] Bands P</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-p2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-p@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 17:09:54 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-p2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-p@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 Pain of Salvation\
-   Pallbearer\
-   Pantera\
-   Paragon\
-   Paralydium\
-   Paul Gilbert\
-   Pearl Jam\
-   Pelican\
-   Pergamum\
-   Periphery\
-   Persefone\
-   Persuader\
-   Peter Green\
-   Peter Green Splinter Group\
-   Phish\
-   Pink Floyd\</description>
+Pallbearer\
+Pantera\
+Paragon\
+Paralydium\
+Paul Gilbert\
+Pearl Jam\
+Pelican\
+Pergamum\
+Periphery\
+Persefone\
+Persuader\
+Peter Green\
+Peter Green Splinter Group\
+Phish\
+Pink Floyd\
+Placebo\
+Plini\
+Poison\
+Poisonblack\
+Polaris\
+Polarization\
+Polvo\
+Polyphia\
+Pomegranate Tiger\
+Porcupine Tree\
+Possessed\
+Powerwolf\
+Primordail\
+Protest The Hero\
+Prototype\
+Psycroptic\</description>
     </item>
     
     <item>
       <title>[乐队] Bands O</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-o2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-o@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 17:08:07 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-o2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-o@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 OSI\
-   Oasis\
-   Obscura\
-   Oceans of Slumber\
-   Octavision\
-   Odious Mortem\
-   Of Buried Hopes\
-   Ola Englund\
-   Omnium Gatherum\
-   Onslaught\
-   Opeth\
-   Orbit Culture\
-   Orden Ogan\
-   Origin\
-   Orphaned Land\</description>
+Oasis\
+Obscura\
+Oceans of Slumber\
+Octavision\
+Odious Mortem\
+Of Buried Hopes\
+Ola Englund\
+Omnium Gatherum\
+Onslaught\
+Opeth\
+Orbit Culture\
+Orden Ogan\
+Origin\
+Orphaned Land\
+Our Hollow, Our Home\
+Ouroboros\
+Overkill\
+Ozzy Osbourne\</description>
     </item>
     
     <item>
       <title>[乐队] Bands M</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-m2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-m@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 17:02:43 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-m2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-m@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 Machine Head\
-   Mandroid Echostar\
-   Mansun\
-   Mantra Yoga Music Oasis\
-   Marduk\
-   Marilyn Manson\
-   Marty Friedman\
-   Masterplan\
-   Matchbook Romance\
-   Mayhem\
-   Mechina\
-   Megadeth\
-   Mendel\
-   Mercenary\
-   Mercyful Fate\</description>
+Mandroid Echostar\
+Mansun\
+Mantra Yoga Music Oasis\
+Marduk\
+Marilyn Manson\
+Marty Friedman\
+Masterplan\
+Matchbook Romance\
+Mayhem\
+Mechina\
+Megadeth\
+Mendel\
+Mercenary\
+Mercyful Fate\
+Merrow\
+Meshuggah\
+Metallica\
+Michael Angelo Batio\
+Miles Davis\
+Minus the Bear\
+Miroist\
+Misery Index\
+Mistur\
+Modern Day Babylon\
+Mono Inc.\
+Monobody\
+Monstrosity\
+Monuments\
+Moonspell\
+Moon Tooth\
+Morbid Angel\
+Mors Principium Est\
+Motion City Soundtrack\
+Motörhead\
+Mr. Big\
+Muse\
+Mutiny Within\
+My Chemical Romance\</description>
     </item>
     
     <item>
       <title>[乐队] Bands L</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-l2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-l@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 17:01:36 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-l2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-l@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 Lacrimas Profundere\
-   Lacrimosa\
-   Lake Of Tears\
-   Lamb of God\
-   Led Zeppelin\
-   Lee McKinney\
-   Leprous\
-   Les Discrets\
-   Lifelover\
-   Lightning Bolt\
-   Liquorworks\
-   Little Willie John\
-   Long Distance Calling\
-   Lorna Shore\</description>
+Lacrimosa\
+Lake Of Tears\
+Lamb of God\
+Led Zeppelin\
+Lee McKinney\
+Leprous\
+Les Discrets\
+Lifelover\
+Lightning Bolt\
+Liquorworks\
+Little Willie John\
+Long Distance Calling\
+Lorna Shore\
+Lost Horizon\
+Lost In Thought\
+Lost Society\
+Lunarsea\
+Lynyrd Skynyrd\</description>
     </item>
     
     <item>
       <title>[乐队] Bands K</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-k2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-k@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 17:00:26 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-k2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-k@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 KISS\
-   Kadinja\
-   Kamelot\
-   Katatonia\
-   Kylesa\
-   Kill The Romance\
-   Killer Queens\
-   Killswitch Engage\
-   King 810\
-   King Diamond\
-   Kiuas\
-   Kmac2021\
-   Kreator\
-   Krisiun\
-   </description>
+Kadinja\
+Kamelot\
+Katatonia\
+Kylesa\
+Kill The Romance\
+Killer Queens\
+Killswitch Engage\
+King 810\
+King Diamond\
+Kiuas\
+Kmac2021\
+Kreator\
+Krisiun\</description>
     </item>
     
     <item>
       <title>[乐队] Bands J</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-j2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-j@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 16:29:02 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-j2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-j@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 Jack The Joker\
-   James Brown &amp;amp; The Famous Flames\
-   James Labrie\
-   Jason Richardson\
-   Jeff Beck\
-   Jeff Loomis\
-   Jimi Hendrix\
-   Jimmy Eat World\
-   Job For A Cowboy\
-   Joe Satriani\
-   John Petrucci\
-   **Jolly **\
-   Jorn\</description>
+James Brown &amp;amp; The Famous Flames\
+James Labrie\
+Jason Richardson\
+Jeff Beck\
+Jeff Loomis\
+Jimi Hendrix\
+Jimmy Eat World\
+Job For A Cowboy\
+Joe Satriani\
+John Petrucci\
+**Jolly **\
+Jorn\
+Judas Priest\
+jizue\</description>
     </item>
     
     <item>
       <title>[乐队] Bands I</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-i2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-i@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 16:26:54 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-i2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-i@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 I Declare War\
-   I Met a Yeti\
-   Icarus The Owl\
-   If I Were You\
-   If These Trees Could Talk\
-   Igorrr\
-   Ihsahn\
-   Illdisposed\
-   Imminence\
-   Immortal\
-   Imperanon\
-   In Flames\
-   In Mourning\
-   In Vain\</description>
+I Met a Yeti\
+Icarus The Owl\
+If I Were You\
+If These Trees Could Talk\
+Igorrr\
+Ihsahn\
+Illdisposed\
+Imminence\
+Immortal\
+Imperanon\
+In Flames\
+In Mourning\
+In Vain\
+Infant Annihilator\
+Inferi\
+Insomnium\
+Interloper\
+Intervals\
+Into Eternity\
+Intronaut\
+Ion Dissonance\
+IOTUNN\
+Iron Maiden\
+Iron Mask\
+Irreversible Mechanism\
+Itzamna\</description>
     </item>
     
     <item>
       <title>[乐队] Bands H</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-h2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-h@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 12:10:56 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-h2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-h@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 HIM\
-   Haken\
-   HammerFall\
-   Hannes Grossmann\
-   Harkla\
-   Hatebreed\
-   Hatesphere\
-   Hath\
-   Haunt\
-   Haunted Shores\
-   Havok\
-   Hawthorne Heights\
-   Head Automatica\
-   Heaven Shall Burn\
-   Hella\
-   Helstar\</description>
+Haken\
+HammerFall\
+Hannes Grossmann\
+Harkla\
+Hatebreed\
+Hatesphere\
+Hath\
+Haunt\
+Haunted Shores\
+Havok\
+Hawthorne Heights\
+Head Automatica\
+Heaven Shall Burn\
+Hella\
+Helstar\
+Hermit&amp;rsquo;s Maze\
+Hideous Divinity\
+High On Fire\
+Himsa\
+Holy Grail\
+Horror of Pestilence\
+Horse The Band\
+Hot Flash Heat Wave\
+Huntress\
+Hypocrisy\</description>
     </item>
     
     <item>
       <title>[乐队] Bands G</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-g2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-g@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 12:10:37 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-g2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-g@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 Galahad\
-   Gamma Ray\
-   Gates of Ishtar\
-   Geddy Lee\
-   Gene\
-   George Kollias\
-   Ghost\
-   Ghost Bath\
-   Ghost Brigade\
-   Glassjaw\
-   Godflesh\
-   Gojira\
-   Good Tiger\
-   Gorguts\
-   Gorod\
-   Gothminister\</description>
+Gamma Ray\
+Gates of Ishtar\
+Geddy Lee\
+Gene\
+George Kollias\
+Ghost\
+Ghost Bath\
+Ghost Brigade\
+Glassjaw\
+Godflesh\
+Gojira\
+Good Tiger\
+Gorguts\
+Gorod\
+Gothminister\
+Gotthard\
+Green Day\
+Gruesome\
+Guns N&amp;rsquo; Roses\
+Guthrie Govan\</description>
     </item>
     
     <item>
       <title>[乐队] Bands F</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-f2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-f@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 12:05:01 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-f2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-f@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 Fallujah\
-   Feared\
-   Firenote\
-   Firewind\
-   First Fragment\
-   Fit For An Autopsy\
-   Fleetwood Mac\
-   Fleshgod Apocalypse\
-   For Giants\
-   Fractal Universe\
-   Frank Sinatra\
-   Freak Kitchen\
-   From First To Last\
-   Frost*\</description>
+Feared\
+Firenote\
+Firewind\
+First Fragment\
+Fit For An Autopsy\
+Fleetwood Mac\
+Fleshgod Apocalypse\
+For Giants\
+Fractal Universe\
+Frank Sinatra\
+Freak Kitchen\
+From First To Last\
+Frost*\
+Funeral For A Friend\
+Funkadelic\</description>
     </item>
     
     <item>
       <title>[乐队] Bands E</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-e2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-e@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 12:03:57 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-e2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-e@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 ENEMY AC130 ABOVE\
-   ERRA\
-   Eagles\
-   Earthside\
-   Eastern High\
-   Echobelly\
-   Echopraxia\
-   Edge Of Sanity\
-   Edguy\
-   Elm Street\
-   Eluveitie\
-   Embrace\
-   Emery\
-   Emperor\
-   Enblood\
-   Enforcer\</description>
+ERRA\
+Eagles\
+Earthside\
+Eastern High\
+Echobelly\
+Echopraxia\
+Edge Of Sanity\
+Edguy\
+Elm Street\
+Eluveitie\
+Embrace\
+Emery\
+Emperor\
+Enblood\
+Enforcer\
+Ensiferum\
+Enslaved\
+Entheos\
+Entombed\
+Entrails\
+Epica\
+Equilibrium\
+Eternal Tears Of Sorrow\
+Etherius\
+Ever Forthright\
+Evergrey\
+Every Time I Die\
+Excalibur\
+Exmortus\
+Exodus\
+Extreme\</description>
     </item>
     
     <item>
       <title>[乐队] Bands D</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-d2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-d@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 12:00:57 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-d2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-d@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 Dagoba\
-   Damnation Angels\
-   Dan Swanö\
-   Dance Gavin Dance\
-   Dance With the Dead\
-   Dark Moor\
-   Dark Oath\
-   Dark Tranquillity\
-   Darkest Hour\
-   Darko US\
-   Darkthrone\
-   Darkwater\
-   David Bowie\
-   David Maxim Micic\</description>
+Damnation Angels\
+Dan Swanö\
+Dance Gavin Dance\
+Dance With the Dead\
+Dark Moor\
+Dark Oath\
+Dark Tranquillity\
+Darkest Hour\
+Darko US\
+Darkthrone\
+Darkwater\
+David Bowie\
+David Maxim Micic\
+Dawn Of Solace\
+Daylight Dies\
+Death\
+Death Angel\
+Decapitated\
+Decrepit Birth\
+Deep Purple\
+Def Leppard\
+Defamed\
+Delain\
+Delays\
+Delta Sleep\
+Demonaz\
+Despised Icon\
+Destinity\
+Destiny Potato\
+Destrage\
+Deviant Process\
+DevilDriver\
+Devin Townsend\
+Devin Townsend Project\
+Diablo Swing Orchestra\</description>
     </item>
     
     <item>
       <title>[乐队] Bands C</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-c2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-c@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 11:56:00 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-c2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-c@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 Caliban\
-   Caligula&amp;rsquo;s Horse\
-   Cancer Bats\
-   Car Bomb\
-   Carach Angren\
-   Carcass\
-   Carcer City\
-   Carnifex\
-   Cattle Decapitation\
-   Cellar Darling\
-   Celtic Frost\
-   Cephalic Carnage\
-   Children Of Bodom\
-   Children of Nova\</description>
+Caligula&amp;rsquo;s Horse\
+Cancer Bats\
+Car Bomb\
+Carach Angren\
+Carcass\
+Carcer City\
+Carnifex\
+Cattle Decapitation\
+Cellar Darling\
+Celtic Frost\
+Cephalic Carnage\
+Children Of Bodom\
+Children of Nova\
+Chimp Spanner\
+Chiodos\
+Chon\
+Cipher System\
+Circa Survive\
+Circles\
+Circus Maximus\
+Cloudkicker\
+Coheed and Cambria\
+Concrete Blonde\
+Confusing Paradise\
+Conquering Dystopia\
+Control Denied\
+Convulse\
+Corelia\
+Countless Skies\
+Covet\
+Cradle Of Filth\
+Creedence Clearwater Revival\
+Cryhavoc\
+Cryptopsy\
+Crystal Ball\
+Cursive\</description>
     </item>
     
     <item>
       <title>[乐队] Bands B</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-b2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-b@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 10:24:09 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-b2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-b@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 B.B. King
 布鲁斯
- 感觉&amp;hellip;应该都认识
-  Bananarama
+感觉&amp;hellip;应该都认识
+Bananarama
 流行
- Cruel Summer
-  Baroness
+Cruel Summer
+Baroness
 前卫
- 还不错
-  Battlecross
+还不错
+Battlecross
 旋死
- 还不错
-  Batushka
+还不错
+Batushka
 旋黑
- 还行..？宗教味挺重
-  Bayside
+还行..？宗教味挺重
+Bayside
 EMO
- 还不错
-  Be&amp;rsquo;lakor
+还不错
+Be&amp;rsquo;lakor
 旋死
- 还不错
-  Beastwars
+还不错
+Beastwars
 传统重金属
- 常规，主唱还不错
-  Become the Knight
+常规，主唱还不错
+Become the Knight
 哥特&amp;hellip;&amp;hellip;.？感觉啥都玩玩
- 有种&amp;quot;乐子人&amp;quot;的感觉
-  Before I Turn
+有种&amp;quot;乐子人&amp;quot;的感觉
+Before I Turn
 前卫金属核
- 新秀，值得一听
-  Before The Dawn</description>
+新秀，值得一听
+Before The Dawn
+旋死
+下岗职工再就业
+Behemoth
+黑金
+扛把子
+Being
+前卫
+还不错
+Belzebubs
+黑金
+值得一听
+Beneath The Massacre
+技术死
+值得一听，有点像土星环
+Bent Knee
+前摇
+还不错
+Between The Buried And Me
+前卫
+挺花的，值得一听</description>
     </item>
     
     <item>
       <title>[乐队] Bands A</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-a2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-a@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 00:31:52 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-a2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-a@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 AC/DC
 硬摇
- 老爹们的乐队
-  AFI
+老爹们的乐队
+AFI
 EMO
- 值得一听
-  ANGRA
+值得一听
+ANGRA
 力金
- 值得一听，solo不错
-  Abiogenesis
+值得一听，solo不错
+Abiogenesis
 大概是&amp;hellip;技术死核&amp;hellip;&amp;hellip;？
- 没想到吧，只有一首歌
-  Aborted
+没想到吧，只有一首歌
+Aborted
 技术死
- 常规
-  Abysmal Dawn
+常规
+Abysmal Dawn
 技术死
- 常规
-  Aeon
+常规
+Aeon
 死金
- 常规
-  Aephanemer
+常规
+Aephanemer
 旋死
- 常规
-  Aerosmith
+常规
+Aerosmith
 布鲁斯+硬摇
- 老爹们的乐队
-  After The Burial
+老爹们的乐队
+After The Burial
 嗯&amp;hellip;金属核？
- 常规
-  Agalloch
+常规
+Agalloch
 黑金+哥特&amp;hellip;？
- 常规</description>
+常规
+Agathodaimon
+交响黑
+常规
+Air Supply
+&amp;hellip;感觉更像流行乐
+老爹们的乐队
+Akercocke
+死金
+掺了些奇怪的东西
+Alcest
+后黑
+&amp;ldquo;万恶之源&amp;quot;级
+Alexisonfire
+EMO
+比较有意思
+Alice In Chains
+Grunge
+老爹们的乐队
+Alkaline Trio
+朋克
+值得一听
+Alkaloid
+技术死
+比较有意思
+All Shall Perish</description>
     </item>
     
     <item>
       <title>[乐队] Bands N</title>
-      <link>https://marginitor.github.io/blog/music/bands/music-bands-n2022-02-06/</link>
+      <link>https://marginitor.github.io/blog/music/bands/music-bands-n@2022-02-06/</link>
       <pubDate>Sun, 06 Feb 2022 00:31:52 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/music/bands/music-bands-n2022-02-06/</guid>
+      <guid>https://marginitor.github.io/blog/music/bands/music-bands-n@2022-02-06/</guid>
       <description>无谓的前言 按照字典序排的，所以就不加序号了。 于是直接开始报菜名。
 正文 Naglfar\
-   Nasum\
-   Native Construct\
-   Ne Obliviscaris\
-   Necrophagist\
-   Necrophobic\
-   Neil Young\
-   Nekrogoblikon\
-   Nevermore\
-   Nick Cave &amp;amp; The Bad Seeds\
-   Nightrage\
-   Nile\
-   Nirvana\
-   Nocturnal Rites\
-   Norther\</description>
+Nasum\
+Native Construct\
+Ne Obliviscaris\
+Necrophagist\
+Necrophobic\
+Neil Young\
+Nekrogoblikon\
+Nevermore\
+Nick Cave &amp;amp; The Bad Seeds\
+Nightrage\
+Nile\
+Nirvana\
+Nocturnal Rites\
+Norther\
+Novelists FR\
+Novembre\
+Nuclear Power Trio\
+Numenorean\</description>
     </item>
     
     <item>
       <title>[运筹学] 基础定理证明</title>
-      <link>https://marginitor.github.io/blog/math/optimization/optimization-ch-12021-06-09/</link>
+      <link>https://marginitor.github.io/blog/math/optimization/optimization-ch-1@2021-06-09/</link>
       <pubDate>Wed, 09 Jun 2021 09:11:48 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/math/optimization/optimization-ch-12021-06-09/</guid>
+      <guid>https://marginitor.github.io/blog/math/optimization/optimization-ch-1@2021-06-09/</guid>
       <description>凸集 设 ${x}^{(1)},{x}^{(2)}$
-测试成功了，想润了。 （话说你怎么只认特定格式的时间啊）
- </description>
+测试成功了，想润了。 （话说你怎么只认特定格式的时间啊）</description>
     </item>
     
     <item>
       <title>这是一个测试博客</title>
-      <link>https://marginitor.github.io/blog/test/test-blog2021-06-06/</link>
+      <link>https://marginitor.github.io/blog/test/test-blog@2021-06-06/</link>
       <pubDate>Sun, 06 Jun 2021 21:18:28 +0000</pubDate>
       
-      <guid>https://marginitor.github.io/blog/test/test-blog2021-06-06/</guid>
+      <guid>https://marginitor.github.io/blog/test/test-blog@2021-06-06/</guid>
       <description>测试 这是一个测试页，顺便翻译一下语法看看
- 头 Heading HTML中的 &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt;元素，可以用对应数目的前导#来实现。
-H1 H2 H3 H4 H5 H6  段落 Paragraph 没错，这只是一个平平无奇的段落。
- 块引用 Blockquote 块引用，没别的，就是块引用，然后可以部分地修改内部。 必须有一个 footer 或者 cite 元素
-Blockquote without attribution  随便说点啥. 再 随便 说点 啥.
- Blockquote with attribution  某名人名言 — 某名人1 表 Table Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-   Name Age     Bob 27   Alice 23    Inline Markdown within tables    Inline  Markdown  In  Table     italics bold strikethrough  code    代码块 Code Blocks Code block with backticks 1 2 3 4 5 6 7 8 9 10 11  html &amp;lt;!</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://marginitor.github.io/about/</link>
-      <pubDate>Sun, 06 Jun 2021 14:36:03 +0800</pubDate>
-      
-      <guid>https://marginitor.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+头 Heading HTML中的 &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt;元素，可以用对应数目的前导#来实现。
+H1 H2 H3 H4 H5 H6 段落 Paragraph 没错，这只是一个平平无奇的段落。
+块引用 Blockquote 块引用，没别的，就是块引用，然后可以部分地修改内部。 必须有一个 footer 或者 cite 元素
+Blockquote without attribution 随便说点啥. 再 随便 说点 啥.
+Blockquote with attribution 某名人名言 — 某名人1
+表 Table Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
+Name Age Bob 27 Alice 23 Inline Markdown within tables Inline Markdown In Table italics bold strikethrough code 代码块 Code Blocks Code block with backticks 1 2 3 4 5 6 7 8 9 10 11 html &amp;lt;!</description>
     </item>
     
     <item>
