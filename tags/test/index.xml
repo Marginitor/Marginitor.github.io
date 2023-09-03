@@ -24,7 +24,7 @@
       
       <guid>https://marginitor.github.io/blog/test/test-blog@2021-06-06/</guid>
       <description>测试 这是一个测试页，顺便翻译一下语法看看
-头 Heading HTML中的 &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt;元素，可以用对应数目的前导#来实现。
+标题 Heading HTML中的 &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt;元素，可以用对应数目的前导#来实现。
 H1 H2 H3 H4 H5 H6 段落 Paragraph 没错，这只是一个平平无奇的段落。
 块引用 Blockquote 块引用，没别的，就是块引用，然后可以部分地修改内部。 必须有一个 footer 或者 cite 元素
 Blockquote without attribution 随便说点啥. 再 随便 说点 啥.
