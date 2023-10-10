@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 07 Feb 2022 09:52:17 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/categories/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 9999 09:09:09 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/categories/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客说明</title>
+      <link>https://marginitor.github.io/blog/test/%E8%AF%B4%E6%98%8E@9999-09-09/</link>
+      <pubDate>Thu, 09 Sep 9999 09:09:09 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/blog/test/%E8%AF%B4%E6%98%8E@9999-09-09/</guid>
+      <description>介绍一下各个标签是怎么回事。
+测试了一下，只能手动顶置了。</description>
+    </item>
+    
     <item>
       <title>这是一个测试博客2</title>
       <link>https://marginitor.github.io/blog/test/test-blog2@2022-02-07/</link>

@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 15 Oct 2023 23:00:00 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 9999 09:09:09 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客说明</title>
+      <link>https://marginitor.github.io/blog/test/%E8%AF%B4%E6%98%8E@9999-09-09/</link>
+      <pubDate>Thu, 09 Sep 9999 09:09:09 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/blog/test/%E8%AF%B4%E6%98%8E@9999-09-09/</guid>
+      <description>介绍一下各个标签是怎么回事。
+测试了一下，只能手动顶置了。</description>
+    </item>
+    
     <item>
       <title>[日常] 雁栖湖第六周（2023.10.9 - 2023.10.15）</title>
       <link>https://marginitor.github.io/blog/records/ucas/%E9%9B%81%E6%A0%96%E6%B9%96%E7%AC%AC%E5%85%AD%E5%91%A82023_10_9-2023_10_15@2023-10-9/</link>
@@ -25,6 +35,16 @@
 2023年10月13日 占坑。
 2023年10月14日 占坑。
 2023年10月15日 占坑。</description>
+    </item>
+    
+    <item>
+      <title>博客说明</title>
+      <link>https://marginitor.github.io/posts/2023-10-10/</link>
+      <pubDate>Tue, 10 Oct 2023 14:50:11 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/posts/2023-10-10/</guid>
+      <description>只是随便写点东西，好让这个模块显示出来。
+顺便，这东西好像有bug，不管pinned属性是否为true，只要写了这个属性，就会默认顶置。</description>
     </item>
     
     <item>

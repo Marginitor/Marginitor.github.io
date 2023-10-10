@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Marginitor&#39;s Shelter In Silence</title>
+    <link>https://marginitor.github.io/posts/</link>
+    <description>Recent content in Posts on Marginitor&#39;s Shelter In Silence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 10 Oct 2023 14:50:11 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>博客说明</title>
+      <link>https://marginitor.github.io/posts/2023-10-10/</link>
+      <pubDate>Tue, 10 Oct 2023 14:50:11 +0000</pubDate>
+      
+      <guid>https://marginitor.github.io/posts/2023-10-10/</guid>
+      <description>只是随便写点东西，好让这个模块显示出来。
+顺便，这东西好像有bug，不管pinned属性是否为true，只要写了这个属性，就会默认顶置。</description>
+    </item>
+    
+  </channel>
+</rss>
