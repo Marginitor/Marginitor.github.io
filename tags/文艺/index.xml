@@ -7,15 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 10 Oct 2023 23:00:00 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/tags/%E6%96%87%E8%89%BA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2023 15:00:00 +0000</lastBuildDate><atom:link href="https://marginitor.github.io/tags/%E6%96%87%E8%89%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[文艺] Collection 1</title>
       <link>https://marginitor.github.io/blog/literature/collection-1@2023-10-10/</link>
-      <pubDate>Tue, 10 Oct 2023 23:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Oct 2023 15:00:00 +0000</pubDate>
       
       <guid>https://marginitor.github.io/blog/literature/collection-1@2023-10-10/</guid>
       <description>随便写写 1
-Item 1 Lyrics@_000 叨扰的蝉望着信笺
+Item 0 Fragment @_000 2023-10-10 23:00:00
+叨扰的蝉望着信笺
 在秋风中沉默不言
 枫叶映在我眼眸
 谁的寂寞，如鲠在喉
@@ -32,7 +33,8 @@ Item 1 Lyrics@_000 叨扰的蝉望着信笺
 你却寻不得，躲在太阳身后
 夜幕深深
 看不到彼端的你我双眼也不会刺痛
-Item 2 WTF@_001 反正早就已经厌倦
+Item 1 Fragment @_001 2023-10-29 15:00:00
+反正早就已经厌倦
 不如一同前往世界的角落
 让时间无痛地剥去我们的皮囊
 让我们的骸骨宁静中相互依偎
@@ -44,7 +46,16 @@ Item 2 WTF@_001 反正早就已经厌倦
 一起感受冰锥在肋骨间凝结
 再也听不到干柴在烈火中崩裂
 再也触不到肌肤在寒风中刺痛
-自此在绝对的虚无中一无所知</description>
+自此在绝对的虚无中一无所知
+Item 2 Fragment @_002 2023-10-31 15:00:00
+宇宙啊，膨胀得慢一些吧
+刚刚才鼓起勇气迈出一步
+怎么踌躇之间
+我们又隔开好远好远
+黑洞啊，慢些吞噬回忆吧
+后院的树下还埋着报早的鸟
+转身背对窗边
+晨曦的轻语再也追不上黑夜的纱</description>
     </item>
     
   </channel>
