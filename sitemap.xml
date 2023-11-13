@@ -23,20 +23,32 @@
     <loc>https://marginitor.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>9999-09-09T09:09:09+00:00</lastmod>
   </url><url>
-    <loc>https://marginitor.github.io/blog/music/%E5%8F%88%E6%96%B0%E5%8F%88%E5%A5%BD%E7%9A%84%E8%8A%B1%E6%B4%BB@2023-11-12/</loc>
-    <lastmod>8888-08-08T08:08:08+00:00</lastmod>
+    <loc>https://marginitor.github.io/posts/</loc>
+    <lastmod>2023-11-13T09:01:23+00:00</lastmod>
   </url><url>
-    <loc>https://marginitor.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>8888-08-08T08:08:08+00:00</lastmod>
-  </url><url>
-    <loc>https://marginitor.github.io/categories/%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>8888-08-08T08:08:08+00:00</lastmod>
-  </url><url>
-    <loc>https://marginitor.github.io/tags/%E9%9B%81%E6%A0%96%E6%B9%96/</loc>
-    <lastmod>8888-08-08T08:08:08+00:00</lastmod>
+    <loc>https://marginitor.github.io/posts/%E9%95%BF%E6%9C%9F%E6%9B%B4%E6%96%B0%E7%9A%84%E6%96%87%E7%AB%A0@2023-11-13/</loc>
+    <lastmod>2023-11-13T09:01:23+00:00</lastmod>
   </url><url>
     <loc>https://marginitor.github.io/blog/records/ucas/%E9%9B%81%E6%A0%96%E6%B9%96%E7%AC%AC%E5%8D%81%E5%91%A82023_11_6-2023_11_12@2023-11-12/</loc>
     <lastmod>2023-11-12T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marginitor.github.io/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2023-11-12T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marginitor.github.io/categories/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2023-11-12T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marginitor.github.io/tags/%E9%9B%81%E6%A0%96%E6%B9%96/</loc>
+    <lastmod>2023-11-12T23:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marginitor.github.io/blog/music/%E5%8F%88%E6%96%B0%E5%8F%88%E5%A5%BD%E7%9A%84%E8%8A%B1%E6%B4%BB@2023-11-12/</loc>
+    <lastmod>2023-11-12T11:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marginitor.github.io/tags/%E9%9F%B3%E4%B9%90/</loc>
+    <lastmod>2023-11-12T11:30:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marginitor.github.io/categories/%E9%9F%B3%E4%B9%90/</loc>
+    <lastmod>2023-11-12T11:30:00+00:00</lastmod>
   </url><url>
     <loc>https://marginitor.github.io/blog/computer_science/operating_system/linux_0_11%E4%B8%ADinline%E5%85%B3%E9%94%AE%E5%AD%97%E7%9A%84%E4%BD%9C%E7%94%A8@2023-11-11/</loc>
     <lastmod>2023-11-11T10:38:33+00:00</lastmod>
@@ -88,9 +100,6 @@
   </url><url>
     <loc>https://marginitor.github.io/blog/records/ucas/%E9%9B%81%E6%A0%96%E6%B9%96%E7%AC%AC%E5%85%AD%E5%91%A82023_10_9-2023_10_15@2023-10-9/</loc>
     <lastmod>2023-10-15T23:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://marginitor.github.io/posts/</loc>
-    <lastmod>2023-10-10T14:50:11+00:00</lastmod>
   </url><url>
     <loc>https://marginitor.github.io/posts/2023-10-10/</loc>
     <lastmod>2023-10-10T14:50:11+00:00</lastmod>
@@ -219,9 +228,6 @@
     <lastmod>2022-02-06T17:33:32+00:00</lastmod>
   </url><url>
     <loc>https://marginitor.github.io/tags/%E4%B9%90%E9%98%9F/</loc>
-    <lastmod>2022-02-06T17:33:32+00:00</lastmod>
-  </url><url>
-    <loc>https://marginitor.github.io/categories/%E9%9F%B3%E4%B9%90/</loc>
     <lastmod>2022-02-06T17:33:32+00:00</lastmod>
   </url><url>
     <loc>https://marginitor.github.io/blog/music/bands/music-bands-z@2022-02-06/</loc>
