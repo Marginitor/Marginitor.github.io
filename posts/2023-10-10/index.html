@@ -140,16 +140,29 @@
 
     
     
+    
 
 
 
 
+    
     
     
     
     <p>  只是随便写点东西，好让这个模块显示出来。<br></p>
 <p>  顺便，这东西好像有bug，不管pinned属性是否为true，只要写了这个属性，就会默认顶置。<br></p>
 
+    
+    
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ 
+            startOnLoad: true,
+            securityLevel: 'loose',
+            theme: 'dark',
+        });
+    </script>
+    
 
     <div class="social-share">分享到：</div>
 
